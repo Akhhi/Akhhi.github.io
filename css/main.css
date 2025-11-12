@@ -294,6 +294,16 @@ main#home h1 {
   color: #000;
 }
 
+.job p:hover {
+  color: #eece1a;
+  transition: all 0.5s ease-out;
+}
+
+html::selection {
+  background: #000;
+  text-shadow: none;
+}
+
 .btn,
 .btn-dark,
 .btn-light {
