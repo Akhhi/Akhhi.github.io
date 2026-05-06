@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Akhil Zubair 
 
-I am a fresher on Design and Development. I really enjoy learning languages and frameworks. I'm always interested to work with intriguing projects to develop my career and improve my skills.
+I am a fresher on Design and Development. I really enjoy learning languages and frameworks. I'm always interested to work with intriguing projects to improve my skills and develop my career with you.
 
 Skills: HTML / CSS / JS / EXPRESS
 
